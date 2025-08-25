@@ -1,2 +1,4 @@
 # theme: jekyll-theme-minimal
-remote-theme: thephuse/strange_case
+#remote-theme: thephuse/strange_case
+title: Javier Diez Canseco
+theme: minima
